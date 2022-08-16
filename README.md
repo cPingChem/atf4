@@ -23,9 +23,12 @@
     
 ## misc
   - this folder contains miscellaneous files
+  - edit_pdb.ipynb
+  - join_trajectories.ipynb
+  - test_restart.ipynb
+  - ### atf4_dimer_structure_prediction
 
-
-### src
+## src
   - source codes
 
 
